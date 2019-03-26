@@ -1,0 +1,20 @@
+.gallery{
+  margin: 10px 50px;
+}
+.gallery img {
+  transition: 1s;
+  padding: 15px;
+  width: 30px;
+}
+.gallery img: hover {
+  filter: grayscale(100%);
+  transform: scale(1.1);
+}
+h1{
+  background-color: black;
+  color: #256569;
+  font: 1.5em verdana , helvetica , sans-serif;
+  padding-right: 0em;
+  margin-right: 31em;
+
+}
