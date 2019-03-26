@@ -1,0 +1,186 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: 'Rubik', sans-serif;
+	background:#222;
+	}
+a{ text-decoration:none}
+/***********************************/
+#lowrbdy{
+	width:100%;
+	height:581px;
+	position:absolute;
+	top:74px;
+	left:0px;
+	}
+#lowrbdy img{
+	width:100%;
+	height:100%;
+	}
+/***********************************/
+header{
+	width:100%;
+	height:auto;
+	background:#0071b4;
+	box-shadow:0px 0px 8px 2px #333;
+	position:fixed;
+	z-index:99999;
+	top:0px;
+	left:0px;
+	}
+/***********************************/
+.logo{
+	width:181px;
+	height:61px;
+	position:relative;
+	top:5px;
+	left:10px;
+	float:left;
+	}
+.logo a{
+	text-decoration:none;
+	color:#fff;
+	font-size:60px;
+	margin:0px 20px;
+	line-height:0.9em;
+	}
+/***********************************/
+.srbox{
+	width:580px;
+	height:70px;
+	float:left;
+	margin-left:120px;
+	margin-top:4px;
+	}
+.textbox{
+	border-radius: 8px 0px 0px 8px;
+	background-color:#fff;
+	float:left;
+	border:none;
+	height:40px;
+	padding:1px 12px;
+	font-size:15px;
+	line-height: 1.42857;
+	color:#000;
+	width:450px;
+	margin-top:13px;
+	}
+.query-submit{
+	border-radius: 0px 8px 8px 0px;
+	cursor:pointer;
+	background:#fbfbfb;
+	width:85px;
+	padding:1px 6px;
+	float:left;
+	border:none;
+	margin-top:13px;
+	height:42px;
+	}
+/***********************************/
+.acount{
+	width:170px;
+	height:30px;
+	float:left;
+	margin-top:27px;
+	margin-left:40px;
+	}
+.aclogo{
+	width:20px;
+	height:20px;
+	float:left;
+	border:2px solid #fff;
+	border-radius:50%;
+	text-align:center;
+	}
+.actext{
+	width:100px;
+	float:left;
+	line-height:1.6em;
+	margin-left:8px;
+	font-size:15px;
+	color:#fff;
+	}
+	.account1 a{
+		text-decoration:none;
+		color:#fff;
+		font-size:60px;
+		margin:0px 20px;
+		line-height:0.9em;
+		}
+/***********************************/
+.cart{
+	width:120px;
+	height:36px;
+	float:left;
+	border:2px solid #fff;
+	border-radius:40px;
+	margin-top:18px;
+	margin-left:40px;
+	}
+.cart i{
+	line-height:1.6em;
+	color:#fff;
+	font-size:20px;
+	margin-left:10px;
+	float:left;
+	}
+.cart-e{
+	color:#fff;
+	font-size:20px;
+	line-height:1.6em;
+	float:left;
+	margin:0px;
+	margin-left:10px;
+	}
+.cart-f{
+	color:#000;
+	float:left;
+	background:#fff;
+	padding:2px 6px;
+	border-radius:50%;
+	margin:5px 0px 0px 11px;
+	font-size:16px;
+	line-height: normal;
+	}
+/***********************************/
+.crta{
+	padding:80px 0px;
+	background:#f6f6f6;
+	text-align:center; width:80%; margin:40px auto;
+	}
+.alink{
+	padding:14px 0px;
+	background:#f93;
+	text-align:center; width:80%; margin:20px auto; color:#fff;
+	}
+/*************************************/
+.qnttxt{
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+    box-shadow: 0px -5px 45px rgba(255, 255, 255, 0.2) inset, 0px 1px 1px rgba(255, 255, 255, 0.2);
+    color: #000;
+    padding: 6px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+    width: 70px;
+    font-size: 15px;
+    font-family: "Roboto",sans-serif;
+    text-align: center;
+}
+.qnttxt:active,.qnttxt:focus {
+	 border-color: #66AFE9;
+	 outline: 0px none;
+	 box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(102, 175, 233, 0.6);
+  }
+.qntbtn{width:60px; height:26px; background:#777; border:none; color:#fff; border-radius:5px; cursor:pointer; margin-top:10px}
+.removebtn{
+	color: #fff;
+	padding: 4px 6px;
+	text-align: center;
+	font-weight: bold;
+	border: none;
+	background: #DE0A0F;
+	border-radius: 50%;
+	cursor: pointer;
+	float:right;
+	margin-right:30px;
+}
