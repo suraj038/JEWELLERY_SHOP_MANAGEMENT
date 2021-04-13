@@ -11,3 +11,9 @@ Operating system : windows
 Atom : as text editor for source code.
 
 Webserver :Xampp-apache server
+
+# Screenshots
+![](https://github.com/suraj038/JEWELLERY_SHOP_MANAGEMENT/blob/master/imeg/JEW1.png)
+![](https://github.com/suraj038/JEWELLERY_SHOP_MANAGEMENT/blob/master/imeg/JEW2.png)
+![](https://github.com/suraj038/JEWELLERY_SHOP_MANAGEMENT/blob/master/imeg/JEW3.png)
+![](https://github.com/suraj038/JEWELLERY_SHOP_MANAGEMENT/blob/master/imeg/JEW4.png)
